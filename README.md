@@ -1,6 +1,6 @@
 # GoogleHomeLikeBotttomAppBar
 
-<img src="https://github.com/derricknjeru/GoogleMap/blob/master/art/image_1.png" height="500">
+<img src="https://github.com/derricknjeru/GoogleHomeLikeBotttomAppBar/blob/master/art/image_1.png" height="500">|        <img src="https://github.com/derricknjeru/GoogleHomeLikeBotttomAppBar/blob/master/art/image_2.gif" height="500">
 
 ## Getting Started
 
