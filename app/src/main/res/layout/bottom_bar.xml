@@ -18,6 +18,7 @@
             app:fabCradleMargin="16dp"
             app:fabCradleRoundedCornerRadius="8dp"
             app:hideOnScroll="true"
+            app:layout_scrollFlags="scroll|enterAlways"
             tools:ignore="BottomAppBar">
 
             <LinearLayout

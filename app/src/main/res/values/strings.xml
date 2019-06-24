@@ -1,4 +1,21 @@
 <resources>
     <string name="app_name">Tingg 4.0</string>
     <string name="action_settings">Settings</string>
+    <string name="ipsum_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra vel turpis nunc eget lorem
+    dolor sed. Diam quam nulla porttitor massa id neque aliquam. Quis eleifend quam adipiscing vitae
+    proin. Libero justo laoreet sit amet cursus sit amet dictum sit. Mi bibendum neque egestas
+    congue quisque egestas diam. Et ligula ullamcorper malesuada proin libero nunc. Egestas egestas
+    fringilla phasellus faucibus scelerisque. Pellentesque habitant morbi tristique senectus et
+    netus. Quisque egestas diam in arcu cursus euismod. Nibh venenatis cras sed felis eget velit
+    aliquet. Vitae nunc sed velit dignissim sodales ut eu sem integer. Et netus et malesuada fames
+    ac turpis egestas integer. Pharetra diam sit amet nisl.Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor></string>
+    <string name="welcome">Welcome Derrick Njeru</string>
+    <string name="what">what would you like to do</string>
+    <string name="test_title">Derrick</string>
+    <string name="extended_fab_label">wallet</string>
+    <string name="extended_fab_content_desc">extended floating</string>
+    <string name="wallet_title">Tingg wallet</string>
+    <string name="wallet_bal">KSH 0.00</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
 </resources>

@@ -1,3 +1,5 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tall_toolbar_height">210dp</dimen>
+    <dimen name="title_height">256dp</dimen>
 </resources>
