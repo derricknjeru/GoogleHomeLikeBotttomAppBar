@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/wallet_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="8dp"
+        app:layout_anchor="@id/main_appbar"
+        app:layout_anchorGravity="bottom|center_horizontal"
+        tools:showIn="@layout/fragment_main">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/wallet_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/wallet_title" />
+
+            <TextView
+                android:id="@+id/wallet_bal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/wallet_title"
+                android:text="@string/wallet_bal" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                app:srcCompat="@drawable/ic_expand_more_black_24dp" />
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</layout>
